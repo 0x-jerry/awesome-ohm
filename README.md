@@ -10,9 +10,21 @@ A curated list of awesome things related to [Ohm](https://github.com/ohmjs/ohm):
 
 Editors:
 
+- [Helix](https://github.com/helix-editor/helix/pull/9991):
+  - Syntax highlighting for .ohm files
+  - Indentations
+  - Text-object manipulation (with Tree-sitter)
+  - Injections (with Tree-sitter)
+
+- [VSCode, maintained by novusnota](https://github.com/novusnota/vscode-ohm):
+  - Syntax highlighting for .ohm files
+
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=attilah.ohm):
   - Syntax highlighting for .ohm files
 
 - [Atom](https://github.com/dlmanning/language-ohm):
   - Syntax highlighting for .ohm files
 
+Tools:
+
+- 🌳 Tree-sitter grammar & parser: [tree-sitter-ohm](https://github.com/novusnota/tree-sitter-ohm)
