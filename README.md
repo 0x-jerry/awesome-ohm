@@ -22,6 +22,12 @@ Editors:
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=attilah.ohm):
   - Syntax highlighting for .ohm files
 
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=fantasy.vscode-ohm):
+  - Syntax highlighting for .ohm files
+  - Jump to source definition
+  - Preview rule definition
+  - Provide rule symbols
+
 - [Atom](https://github.com/dlmanning/language-ohm):
   - Syntax highlighting for .ohm files
 
